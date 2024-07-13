@@ -1,0 +1,17 @@
+{
+	"name": "simpledos",
+	"version": "1.0.0",
+	"main": "src/index.ts",
+	"repository": "https://github.com/ringo360/SimpleDos.git",
+	"author": "ringoXD",
+	"license": "AGPL-3.0-only",
+	"dependencies": {
+		"consola": "^3.2.3",
+		"picocolors": "^1.0.1",
+		"tsx": "^4.16.2",
+		"typescript": "^5.5.3"
+	},
+	"devDependencies": {
+		"tsc": "^2.0.4"
+	}
+}
