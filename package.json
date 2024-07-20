@@ -13,5 +13,8 @@
 	},
 	"devDependencies": {
 		"tsc": "^2.0.4"
+	},
+	"scripts": {
+		"start": "tsx src/index.ts"
 	}
 }
